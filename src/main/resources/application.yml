@@ -9,6 +9,6 @@ spring:
       server:
         git:
           uri: https://github.com/dattabinit/udemy-rsmortgage-config-repository
-          searchPaths: udemy-rsmortgage-customer-service
+          searchPaths: udemy-rsmortgage-customer-service,udemy-rsmortgage-customer-account-service
           username: dattabinit
           password: password123
